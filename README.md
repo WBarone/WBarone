@@ -25,7 +25,7 @@ Estou sempre em busca de novas experiências e perspectivas para aprimorar minha
   <a href="mailto:willianbarone1@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white" />
   </a>
-  <a href="https://WBarone.github.io" target="_blank">
+  <a href="https://github.com/WBarone/Portfolio" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=todoist&logoColor=white" target="_blank" />
   </a>
 </div>
