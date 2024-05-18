@@ -32,7 +32,7 @@ Estou sempre em busca de novas experiências e perspectivas para aprimorar minha
 
  <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">⚒️ Languagens e Ferramentas ⚒️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=css,figma,github,html,mysql,notion" />
