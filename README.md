@@ -16,14 +16,14 @@ Estou sempre em busca de novas experiências e perspectivas para aprimorar minha
 </div>
  
 <div align="center"> 
-   <a href="https://www.linkedin.com/in/willian-barone-479879154" target="_blank">
+   <a href="https://www.linkedin.com/in/willian-barone-479879154">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" target="_blank" />
   </a>
    <a href="https://medium.com/@willian.barone" target="_blank">
-    <img src="https://img.shields.io/badge/-Medium-black?style=flat-square&logo=linke&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&logoColor=white" target="_blank" />
   </a>
   <a href="mailto:willianbarone1@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=flat-square&logo=gmail&logoColor=red" />
+    <img src="https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white" />
   </a>
   <a href="https://WBarone.github.io" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=todoist&logoColor=white" target="_blank" />
